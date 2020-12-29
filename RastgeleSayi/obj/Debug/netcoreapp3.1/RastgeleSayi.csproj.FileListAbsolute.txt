@@ -1,0 +1,13 @@
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\obj\Debug\netcoreapp3.1\RastgeleSayi.AssemblyInfoInputs.cache
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\obj\Debug\netcoreapp3.1\RastgeleSayi.AssemblyInfo.cs
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\obj\Debug\netcoreapp3.1\RastgeleSayi.csproj.CoreCompileInputs.cache
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\obj\Debug\netcoreapp3.1\RastgeleSayi.csprojAssemblyReference.cache
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\bin\Debug\netcoreapp3.1\RastgeleSayi.exe
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\bin\Debug\netcoreapp3.1\RastgeleSayi.deps.json
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\bin\Debug\netcoreapp3.1\RastgeleSayi.runtimeconfig.json
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\bin\Debug\netcoreapp3.1\RastgeleSayi.runtimeconfig.dev.json
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\bin\Debug\netcoreapp3.1\RastgeleSayi.dll
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\bin\Debug\netcoreapp3.1\RastgeleSayi.pdb
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\obj\Debug\netcoreapp3.1\RastgeleSayi.dll
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\obj\Debug\netcoreapp3.1\RastgeleSayi.pdb
+C:\Users\halif\source\repos\RastgeleSayi\RastgeleSayi\obj\Debug\netcoreapp3.1\RastgeleSayi.genruntimeconfig.cache
